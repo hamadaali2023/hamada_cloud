@@ -1,0 +1,55 @@
+[class ^= "icon43-"], [class *= " icon43-"] {
+    display: inline-block;width: 43 px;height: 37 px;line-height: 37 px;vertical-align: text-top;background-image: url(/%20img/%20icons/%20icons_43.html);background-position: 0 0;background-repeat: no-repeat;margin: 0
+}.icon43-1 {
+    background-position: 0 0
+}.icon43-2 {
+    background-position: -44 px 0
+}.icon43-3 {
+    background-position: -88 px 0
+}[class ^= "icon97-"], [class *= " icon97-"] {
+    display: inline-block;width: 97 px;height: 97 px;line-height: 97 px;vertical-align: text-top;background-image: url(/%20img/%20icons/%20icons_97.html);background-position: 0 0;background-repeat: no-repeat;margin: 0
+}.icon97-1-1 {
+    background-position: 0 0
+}.icon97-1-2 {
+    background-position: -97 px 0
+}.icon97-1-3 {
+    background-position: -196 px 0
+}.icon97-1-4 {
+    background-position: -294 px 0
+}.icon97-2-1 {
+    background-position: 0-97 px
+}.icon97-2-2 {
+    background-position: -97 px-97 px
+}.icon97-2-3 {
+    background-position: -196 px-97 px
+}.icon97-2-4 {
+    background-position: -294 px-97 px
+}.icon97-2-5 {
+    background-position: -392 px-97 px
+}[class ^= "icon147-"], [class *= " icon147-"] {
+    display: inline-block;width: 147 px;height: 147 px;line-height: 147 px;vertical-align: text-top;background-image: url(../img/icons/icons_147.png);background-position: 0 0;background-repeat: no-repeat;margin: 0
+}.icon147-1 {
+    background-position: 0 0
+}[class ^= "social35-"], [class *= " social35-"] {
+    display: inline-block;width: 35 px;height: 35 px;line-height: 35 px;vertical-align: text-top;background-image: url(../img/icons/social_35.png);background-position: 0 0;background-repeat: no-repeat;margin: 0
+}.social35-fb {
+    background-position: 0 0
+}.social35-twt {
+    background-position: -36 px 0
+}.social35-gplus {
+    background-position: -72 px 0
+}.social35-in {
+    background-position: -108 px 0
+}
+a: hover.social35-fb {
+    background-position: 0-36 px
+}
+a: hover.social35-twt {
+    background-position: -36 px-36 px
+}
+a: hover.social35-gplus {
+    background-position: -72 px-36 px
+}
+a: hover.social35-in {
+    background-position: -108 px-36 px
+}

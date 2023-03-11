@@ -1,0 +1,82 @@
+[22-Jun-2018 15:24:35 UTC] PHP Fatal error:  Cannot use App\Category as Category because the name is already in use in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Item_PurchasesController.php on line 21
+[23-Jun-2018 10:38:36 UTC] PHP Fatal error:  Cannot redeclare App\Employee::bill_Purchases() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 15
+[23-Jun-2018 17:15:35 UTC] PHP Fatal error:  Cannot redeclare App\Store::bill_Purchases() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Store.php on line 14
+[23-Jun-2018 17:15:42 UTC] PHP Fatal error:  Cannot redeclare App\Store::bill_Purchases() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Store.php on line 14
+[23-Jun-2018 17:16:24 UTC] PHP Fatal error:  Cannot redeclare App\Employee::bill_Purchases() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 15
+[25-Jun-2018 17:33:42 UTC] PHP Fatal error:  Cannot use Illuminate\Database\Eloquent\SoftDeletes as SoftDeletes because the name is already in use in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 6
+[25-Jun-2018 17:37:48 UTC] PHP Fatal error:  Cannot use Illuminate\Database\Eloquent\SoftDeletes as SoftDeletes because the name is already in use in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 6
+[25-Jun-2018 17:38:07 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 21
+[25-Jun-2018 18:01:24 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 21
+[25-Jun-2018 18:10:33 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 10
+[25-Jun-2018 18:12:34 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 10
+[25-Jun-2018 18:13:43 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 10
+[25-Jun-2018 18:13:46 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 10
+[25-Jun-2018 18:13:55 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 10
+[25-Jun-2018 18:15:01 UTC] PHP Fatal error:  Cannot use SoftDeletes as SoftDeletes because the name is already in use in /home/arch2z558/public_html/daleel2030.com/countsg/app/Employee.php on line 6
+[26-Jun-2018 15:51:31 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\EmployeesController::update() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/EmployeesController.php on line 65
+[28-Jun-2018 13:55:17 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StoresController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/StoresController.php on line 24
+[28-Jun-2018 13:55:59 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StoresController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/StoresController.php on line 24
+[28-Jun-2018 13:56:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StoresController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/StoresController.php on line 24
+[29-Jun-2018 06:49:15 UTC] PHP Fatal error:  Redefinition of parameter $product in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 24
+[29-Jun-2018 06:49:17 UTC] PHP Fatal error:  Redefinition of parameter $product in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 24
+[29-Jun-2018 07:12:14 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 31
+[29-Jun-2018 07:14:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 31
+[29-Jun-2018 07:14:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 31
+[29-Jun-2018 07:14:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 31
+[29-Jun-2018 07:19:46 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 31
+[29-Jun-2018 07:55:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 31
+[29-Jun-2018 08:10:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 32
+[29-Jun-2018 08:10:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 32
+[29-Jun-2018 08:18:13 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 30
+[29-Jun-2018 08:18:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::restore_trashed() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 30
+[29-Jun-2018 12:58:07 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Item_PurchasesController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Item_PurchasesController.php on line 30
+[29-Jun-2018 12:58:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Item_PurchasesController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Item_PurchasesController.php on line 30
+[02-Jul-2018 09:42:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 26
+[02-Jul-2018 09:47:39 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductsController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/ProductsController.php on line 26
+[02-Jul-2018 11:06:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Item_SalesController::show() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Item_SalesController.php on line 41
+[02-Jul-2018 13:56:11 UTC] PHP Fatal error:  Cannot redeclare App\Product::item_purchase() in /home/arch2z558/public_html/daleel2030.com/countsg/app/Product.php on line 34
+[08-Jul-2018 12:05:26 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php:335
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/arch2z558...', 335, Array)
+#1 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(335): PDOStatement->execute(Array)
+#2 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(722): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#3 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(685): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#4 /home/arch2z558/public_ in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 335
+[08-Jul-2018 12:05:26 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php:335
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/arch2z558...', 335, Array)
+#1 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(335): PDOStatement->execute(Array)
+#2 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(722): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#3 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(685): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#4 /home/arch2z558/public_ in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 335
+[08-Jul-2018 12:05:26 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php:335
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/arch2z558...', 335, Array)
+#1 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(335): PDOStatement->execute(Array)
+#2 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(722): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#3 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(685): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#4 /home/arch2z558/public_ in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 335
+[08-Jul-2018 12:05:26 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php:335
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/arch2z558...', 335, Array)
+#1 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(335): PDOStatement->execute(Array)
+#2 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(722): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#3 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(685): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#4 /home/arch2z558/public_ in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 335
+[08-Jul-2018 12:05:26 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php:335
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/arch2z558...', 335, Array)
+#1 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(335): PDOStatement->execute(Array)
+#2 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(722): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#3 /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php(685): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#4 /home/arch2z558/public_ in /home/arch2z558/public_html/daleel2030.com/countsg/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 335
+[24-Jul-2018 15:49:51 UTC] PHP Fatal error:  Illegal offset type in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Assets_SupController.php on line 41
+[24-Jul-2018 15:50:29 UTC] PHP Fatal error:  Illegal offset type in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Assets_SupController.php on line 41
+[24-Jul-2018 15:50:32 UTC] PHP Fatal error:  Illegal offset type in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Assets_SupController.php on line 41
+[24-Jul-2018 15:51:39 UTC] PHP Fatal error:  Illegal offset type in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Assets_SupController.php on line 41
+[24-Jul-2018 15:55:53 UTC] PHP Fatal error:  Illegal offset type in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Assets_SupController.php on line 41
+[24-Jul-2018 15:55:55 UTC] PHP Fatal error:  Illegal offset type in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Assets_SupController.php on line 41
+[26-Jul-2018 15:34:52 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/arch2z558/public_html/daleel2030.com/countsg/storage/framework/views/107670f182f70fa19bc700f2d08082c851472039.php on line 46
+[28-Aug-2018 13:33:51 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Returns_PurchasesController.php on line 32
+[29-Aug-2018 09:32:57 UTC] PHP Fatal error:  Cannot use App\User as User because the name is already in use in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Returns_PurchasesController.php on line 33
+[29-Aug-2018 09:33:17 UTC] PHP Fatal error:  Cannot use App\User as User because the name is already in use in /home/arch2z558/public_html/daleel2030.com/countsg/app/Http/Controllers/Returns_PurchasesController.php on line 33

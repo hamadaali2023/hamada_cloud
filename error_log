@@ -1,0 +1,24 @@
+[04-Mar-2019 01:46:47 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('log')
+#1 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('log', Array)
+#2 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('log', Array)
+#3 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('log')
+#4 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home5/matrixa in /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734
+[04-Mar-2019 01:47:05 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('log')
+#1 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('log', Array)
+#2 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('log', Array)
+#3 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('log')
+#4 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home5/matrixa in /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734
+[04-Mar-2019 01:47:17 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('log')
+#1 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('log', Array)
+#2 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('log', Array)
+#3 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(849): Illuminate\Foundation\Application->make('log')
+#4 /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php(804): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home5/matrixa in /home5/matrixac/public_html/cloud/cloud/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734

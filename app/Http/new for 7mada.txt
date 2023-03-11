@@ -1,0 +1,26 @@
+class Category extends Model
+{
+    //
+    protected $table = 'category';
+    public $incrementing = false;
+
+}
+
+
+
+class Category_pic extends Model
+{
+    //
+    protected $table = 'category_pic';
+    public $incrementing = false;
+}
+
+
+
+   $cats=Category::where('type','1')->get();
+
+        $data=array();
+        foreach($cats as $post)
+        {
+
+           $data=Category_pic::select('image_name')->where('id',$post['cat_id'])->first();

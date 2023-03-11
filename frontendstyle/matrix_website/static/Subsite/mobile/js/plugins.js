@@ -1,0 +1,1 @@
+!function(){for(var n,i=["assert","clear","count","debug","dir","dirxml","error","exception","group","groupCollapsed","groupEnd","info","log","markTimeline","profile","profileEnd","table","time","timeEnd","timeStamp","trace","warn"],o=i.length,e=window.console=window.console||{};o--;)e[n=i[o]]||(e[n]=function(){})}();var windowWi=window.innerWidth,windowHe=window.innerHeight;

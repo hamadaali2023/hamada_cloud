@@ -1,0 +1,151 @@
+[class^="icon43-"],
+[class*=" icon43-"] {
+    display: inline-block;
+    width: 43px;
+    height: 37px;
+    line-height: 37px;
+    vertical-align: text-top;
+    background-image: url(../img/icons/icons_43.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    margin: 0
+}
+
+.icon43-1 {
+    background-position: 0 0
+}
+
+.icon43-2 {
+    background-position: -44px 0
+}
+
+.icon43-3 {
+    background-position: -88px 0
+}
+
+[class^="icon67-"],
+[class*=" icon67-"] {
+    display: inline-block;
+    width: 67px;
+    height: 75px;
+    line-height: 17px;
+    vertical-align: text-top;
+    background-image: url(../img/icons/icons_67.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    margin: 0
+}
+
+.icon67-1 {
+    background-position: -611px 0
+}
+
+.icon67-2 {
+    background-position: -545px 0
+}
+
+.icon67-3 {
+    background-position: -476px 0
+}
+.icon67-9 {
+    background-position: -409px 0
+}
+.icon67-10 {
+    background-position: -341px 0
+}
+.icon67-4 {
+    background-position: -273px 0
+}
+
+.icon67-5 {
+    background-position: -204px 0
+}
+
+.icon67-6 {
+    background-position: -136px 0
+}
+
+.icon67-7 {
+    background-position: -69px 0
+}
+.icon67-8 {
+    background-position: 0 0
+}
+
+[class^="icon88-"],
+[class*=" icon88-"] {
+    display: inline-block;
+    width: 88px;
+    height: 100px;
+    line-height: 100px;
+    vertical-align: text-top;
+    background-image: url(../img/icons/icons_88.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    margin: 0
+}
+
+.icon88-1 {
+    background-position: 0 0
+}
+
+.icon88-2 {
+    background-position: -89px 0
+}
+
+.icon88-3 {
+    background-position: -178px 0
+}
+
+.icon88-4 {
+    background-position: -267px 0
+}
+
+.icon88-5 {
+    background-position: -356px 0
+}
+
+[class^="social35-"],
+[class*=" social35-"] {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    vertical-align: text-top;
+    background-image: url(../img/icons/social_35.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    margin: 0
+}
+
+.social35-fb {
+    background-position: 0 0
+}
+
+.social35-twt {
+    background-position: -36px 0
+}
+
+.social35-gplus {
+    background-position: -72px 0
+}
+
+.social35-in {
+    background-position: -108px 0
+}
+
+a:hover .social35-fb {
+    background-position: 0 -36px
+}
+
+a:hover .social35-twt {
+    background-position: -36px -36px
+}
+
+a:hover .social35-gplus {
+    background-position: -72px -36px
+}
+
+a:hover .social35-in {
+    background-position: -108px -36px
+}

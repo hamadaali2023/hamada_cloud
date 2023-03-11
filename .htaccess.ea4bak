@@ -1,0 +1,49 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+
+
+
+
+
+
+
+RewriteRule الرئيسيه/(.*)/(.*)$ /home
+RewriteRule الرئيسيه/(.*)/(.*)$ /home
+RewriteRule الرئيسيه/(.*)/(.*)$ /home
+RewriteRule الرئيسيه/(.*)/(.*)$ /home
+RewriteRule الرئيسيه/(.*)/(.*)$ /home
+RewriteRule الرئيسيه/(.*)/(.*)$ /home
+RewriteRule الرئيسيه/(.*)/(.*)$ /home
+
+
+
+ErrorDocument 404 /404.php
+ErrorDocument 406 /404.php
+
+<Files *.sh>
+  ForceType 'text/plain; charset=UTF-8'
+</Files>
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+## EXPIRES HEADER CACHING ##
